@@ -21,7 +21,7 @@ The project needs no API keys, no accounts and no internet connection once the p
 
 ![Hand Tracking demo](/download.jpg)
 
-> Placeholder: run the app, take a screenshot of the window and save it as `docs/screenshot.png`.
+
 
 ## Requirements
 
