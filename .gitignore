@@ -1,0 +1,21 @@
+# Virtual environments
+.venv/
+venv/
+hand-env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets (this project does not use any, but keep them out of Git)
+.env
+*.env
+*.key
+*.pem
+secrets.*
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
