@@ -122,6 +122,4 @@ hand-tracking/
 - Volume control from thumb-to-index distance
 - Gesture recognition (pinch, fist, open palm)
 
-## License
 
-Add a license of your choice (for example MIT) before sharing the project publicly.
